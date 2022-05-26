@@ -1,0 +1,9 @@
+{
+  "contest": 130,
+  "handle": "supernova",
+  "address": "0x1b37B1EC6B7faaCbB9AddCCA4043824F36Fb88D8",
+  "risk": "G",
+  "title": "Gas Optimizations",
+  "issueId": 25,
+  "issueUrl": "https://github.com/code-423n4/2022-05-velodrome-findings/issues/25"
+}
