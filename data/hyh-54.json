@@ -1,0 +1,9 @@
+{
+  "contest": 130,
+  "handle": "hyh",
+  "address": "0x859e1Dfb430A7156fAEF11947F2FC2a3C34B733A",
+  "risk": "2",
+  "title": "Gauge set can be front run if bribe and gauge constructors aren't run atomically",
+  "issueId": 54,
+  "issueUrl": "https://github.com/code-423n4/2022-05-velodrome-findings/issues/54"
+}
