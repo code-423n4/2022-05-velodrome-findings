@@ -1,0 +1,9 @@
+{
+  "contest": 130,
+  "handle": "fatherOfBlocks",
+  "address": "0xd5a2686B02A15b5269848DEe6e913F07F459782E",
+  "risk": "2",
+  "title": "front running in the allowance because of the approve() function",
+  "issueId": 57,
+  "issueUrl": "https://github.com/code-423n4/2022-05-velodrome-findings/issues/57"
+}
