@@ -1,0 +1,9 @@
+{
+  "contest": 130,
+  "handle": "hansfriese",
+  "address": "0xf2dCB1d3B7091Dcf2cE87aD115377C108ebE6DD4",
+  "risk": "2",
+  "title": "withdraw() and merge() functions of VotingEscrow won't work when an approved user(not owner) calls because _burn() function fails.",
+  "issueId": 93,
+  "issueUrl": "https://github.com/code-423n4/2022-05-velodrome-findings/issues/93"
+}
