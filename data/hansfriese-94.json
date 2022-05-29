@@ -1,0 +1,9 @@
+{
+  "contest": 130,
+  "handle": "hansfriese",
+  "address": "0xf2dCB1d3B7091Dcf2cE87aD115377C108ebE6DD4",
+  "risk": "2",
+  "title": "claimable(), claim(), claim_many(), ve_for_at() functions of RewardsDistributor won't work sometimes because of uint underflow error.",
+  "issueId": 94,
+  "issueUrl": "https://github.com/code-423n4/2022-05-velodrome-findings/issues/94"
+}
