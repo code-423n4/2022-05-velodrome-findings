@@ -1,0 +1,9 @@
+{
+  "contest": 130,
+  "handle": "IllIllI",
+  "address": "0xCC6B0a35481EA40b60780B7c0294c6c29061038f",
+  "risk": "2",
+  "title": "Voting tokens may be lost when given to non-EOA accounts",
+  "issueId": 185,
+  "issueUrl": "https://github.com/code-423n4/2022-05-velodrome-findings/issues/185"
+}
