@@ -1,0 +1,9 @@
+{
+  "contest": 130,
+  "handle": "unforgiven",
+  "address": "0x6e6c53f81e310d53387dc2166ee9a632cf768fa1",
+  "risk": "3",
+  "title": "Rewards can be locked in Bribe contract because distributing them is depend of base token reward amount and Gauge.deliverBribes() is not get called always by Voter.distribute()",
+  "issueId": 158,
+  "issueUrl": "https://github.com/code-423n4/2022-05-velodrome-findings/issues/158"
+}
