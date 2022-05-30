@@ -1,0 +1,9 @@
+{
+  "contest": 130,
+  "handle": "djxploit",
+  "address": "0x2635bbab233b9a1cd7703e6c4b80fe39055971d6",
+  "risk": "2",
+  "title": "approve function is vulnerable to front-running",
+  "issueId": 197,
+  "issueUrl": "https://github.com/code-423n4/2022-05-velodrome-findings/issues/197"
+}
