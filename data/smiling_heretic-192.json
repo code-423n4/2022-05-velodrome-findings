@@ -1,0 +1,9 @@
+{
+  "contest": 130,
+  "handle": "smiling_heretic",
+  "address": "0xe180d626a4229c1F1C4cb0278cE071dBcC172AdB",
+  "risk": "2",
+  "title": "In gauge, checkpoint.voted is incorrectly copied from previous checkpoint (always false in new checkpoint)",
+  "issueId": 192,
+  "issueUrl": "https://github.com/code-423n4/2022-05-velodrome-findings/issues/192"
+}
