@@ -1,0 +1,9 @@
+{
+  "contest": 130,
+  "handle": "Dravee",
+  "address": "0x9399b6934A797f133E452CF1523a4254629Ebf81",
+  "risk": "2",
+  "title": "Consistently check account balance before and after transfers for Fee-On-Transfer discrepancies",
+  "issueId": 198,
+  "issueUrl": "https://github.com/code-423n4/2022-05-velodrome-findings/issues/198"
+}
