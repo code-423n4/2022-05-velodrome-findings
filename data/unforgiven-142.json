@@ -1,0 +1,9 @@
+{
+  "contest": 130,
+  "handle": "unforgiven",
+  "address": "0x6e6c53f81e310d53387dc2166ee9a632cf768fa1",
+  "risk": "3",
+  "title": "_writeCheckpoint() in Gauge use wrong index to get prevVoteStatus",
+  "issueId": 142,
+  "issueUrl": "https://github.com/code-423n4/2022-05-velodrome-findings/issues/142"
+}
