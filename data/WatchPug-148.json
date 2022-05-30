@@ -1,0 +1,9 @@
+{
+  "contest": 130,
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "3",
+  "title": "`Pair.sol#_update()` will revert when `reserve0CumulativeLast` or `reserve1CumulativeLast` gets large enough",
+  "issueId": 148,
+  "issueUrl": "https://github.com/code-423n4/2022-05-velodrome-findings/issues/148"
+}
