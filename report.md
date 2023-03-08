@@ -1,3 +1,11 @@
+---
+sponsor: "Velodrome Finance"
+slug: "2022-05-velodrome"
+date: "2022-08-08"
+title: "Velodrome Finance contest"
+findings: "https://github.com/code-423n4/2022-05-velodrome-findings/issues"
+contest: 130
+---
 
 # Overview
 
